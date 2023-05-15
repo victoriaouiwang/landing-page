@@ -1,0 +1,9 @@
+.btn-corail {
+ background-color: rgb(215, 100, 99);
+ padding: 15px 20px;
+ position: relative;
+ border-radius: 4px;
+ color: white ;
+ font-weight: bold;
+ font-family: 'Ysabeau', sans-serif;
+ }
